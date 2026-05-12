@@ -1,0 +1,35 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Banco de dados SQLite
+*.db
+*.sqlite3
+
+# Variáveis de ambiente
+.env
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Distribuição / build
+dist/
+build/
+*.egg-info/
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
